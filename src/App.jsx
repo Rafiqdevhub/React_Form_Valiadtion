@@ -1,9 +1,9 @@
-import Register from "./pages/Register";
+import Home from "./component/home/Home";
 
 const App = () => {
   return (
     <main className="App">
-      <Register />
+      <Home />
     </main>
   );
 };
